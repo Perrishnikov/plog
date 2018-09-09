@@ -1,0 +1,9 @@
+{
+  "name": "plog",
+  "version": "1.0.4",
+  "description": "Console.log some text",
+  "main": "index.js",
+  "author": "Perrishnikov",
+  "license": "MIT",
+  "private": true
+}
