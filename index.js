@@ -1,5 +1,5 @@
 'use strict';
 
-module.exports = function plog(text = "Howdy") {
+module.exports = plog(text = "Howdy") => {
   console.log(text);
 };
